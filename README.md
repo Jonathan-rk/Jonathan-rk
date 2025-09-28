@@ -1,6 +1,6 @@
 <h1 align="left">Jonathan Redmerski Kalinoski</h1>
 
-<img align="right" height="120" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 12px;" />
+<img align="right" height="120" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 10px;" />
 
 <h3 align="left">
 Systems Development Student by SENAI (Brazilian National Industrial Training Service) |<br>
@@ -59,15 +59,3 @@ Developer and Founder of Chamou | From Brazil
   </p>
   <a href="https://jonathanrk.netlify.app/" target="_blank">Check my Portfolio</a>
 </div>
-
-<style>
-.skill-icon {
-  transition: transform 0.3s ease, filter 0.3s ease;
-  margin-bottom: 6px;
-}
-.skill-icon:hover {
-  transform: translateY(-8px) scale(1.2);
-  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
-  cursor: pointer;
-}
-</style>
