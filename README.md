@@ -7,9 +7,6 @@
 ###
 
 <div align="left">
-  <a href="https://linktr.ee/lopessjv07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/jonathan-redmerski-kalinoski-7830aa2b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
