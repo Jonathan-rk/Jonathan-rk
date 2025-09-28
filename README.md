@@ -1,17 +1,11 @@
 <h1 align="left">Jonathan Redmerski Kalinoski</h1>
 
-###
-
 <img align="right" height="120" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 12px;" />
-
-###
 
 <h3 align="left">
 Systems Development Student by SENAI (Brazilian National Industrial Training Service) |<br>
 Developer and Founder of Chamou | From Brazil
 </h3>
-
-###
 
 <div align="left" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/jonathan-redmerski-kalinoski-7830aa2b0/" target="_blank">
@@ -25,11 +19,7 @@ Developer and Founder of Chamou | From Brazil
   </a>
 </div>
 
-###
-
 <h2 align="left">🦾 Skills</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP" class="skill-icon"/>
@@ -55,11 +45,7 @@ Developer and Founder of Chamou | From Brazil
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" title="Discord" class="skill-icon"/>
 </div>
 
-###
-
 <h2 align="left">📋 Latest Project</h2>
-
-###
 
 <div align="left" style="background: #f4f4f4; padding: 16px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 700px;">
   <h3>🚀 Chamou</h3>
