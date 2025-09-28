@@ -3,8 +3,7 @@
 <img align="right" height="120" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 10px;" />
 
 <h3 align="left">
-Systems Development Student by SENAI (Brazilian National Industrial Training Service) |<br>
-Developer and Founder of Chamou | From Brazil
+Systems Development Student by SENAI (Brazilian National Industrial Training Service) | Developer and Founder of Chamou | From Brazil
 </h3>
 
 <div align="left" style="margin-bottom: 20px;">
