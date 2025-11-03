@@ -21,6 +21,8 @@ Systems Development Student by SENAI (Brazilian National Industrial Training Ser
 <h2 align="left">🦾 Skills</h2>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="PHP" title="PHP" class="skill-icon"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="PHP" title="PHP" class="skill-icon"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP" class="skill-icon"/>
@@ -42,8 +44,6 @@ Systems Development Student by SENAI (Brazilian National Industrial Training Ser
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" class="skill-icon"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" class="skill-icon"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" title="Discord" class="skill-icon"/>
 </div>
 
 <h2 align="left">📋 Latest Project</h2>
