@@ -21,6 +21,8 @@ Systems Development Student by SENAI (Brazilian National Industrial Training Ser
 <h2 align="left">🦾 Skills</h2>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="PHP" title="PHP" class="skill-icon"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP" class="skill-icon"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" title="Flutter" class="skill-icon"/>
