@@ -32,38 +32,33 @@
 
 <h2 align="left">🚀 Featured Projects</h2>
 
-<div align="left" style="background: #1a1a1a; color: #fff; padding: 20px; border-radius: 12px; border: 1px solid #333; max-width: 850px;">
+<div align="left" style="background: #1a1a1a; color: #fff; padding: 20px; border-radius: 12px; border: 1px solid #333; max-width: 850px; margin-bottom: 20px;">
   <h3>🛠️ Ordemo - Smart Service Management (SaaS)</h3>
   <p>
     A full-scale service management ecosystem built to automate scheduling and business workflows for independent professionals.
-    <br><strong>Tech Stack:</strong> 
-    • <strong>Frontend:</strong> React (TSX) + Vite + Tailwind.
-    • <strong>Backend:</strong> Node.js + TypeScript.
-    • <strong>Persistence:</strong> Prisma ORM with Relational Modeling.
-    • <strong>Integration:</strong> Payment gateways (Asaas) and Webhooks for real-time events.
+    <br><strong>Tech Stack:</strong> React (TSX), Vite, Node.js, TypeScript, and Prisma ORM.
   </p>
   <a href="https://ordemo.app" target="_blank" style="color: #bb86fc;"><strong>Live Project →</strong></a>
 </div>
 
-<br>
-
-<div align="left" style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 850px;">
-  <table border="0" style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td width="70%" style="vertical-align: top; border: none; padding-right: 15px;">
+<table border="0" style="border-collapse: collapse; width: 100%; max-width: 850px;">
+  <tr>
+    <td style="border: none; padding: 0; vertical-align: top; width: 65%;">
+      <div style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08);">
         <h3 style="margin-top: 0;">📱 Chamou - Real-Time Job Marketplace</h3>
         <p>
           An instant hiring platform focused on reducing operational latency through event-driven architecture and real-time matching.
-          <br><br><strong>Key Features:</strong> High-fidelity UX/UI, optimized notification systems, and scalable backend logic.
         </p>
+        <strong>Key Features:</strong> High-fidelity UX/UI and optimized notification systems.
+        <br><br>
         <a href="https://jonathanrk.netlify.app/" target="_blank" style="color: #0F9D58;"><strong>View Portfolio →</strong></a>
-      </td>
-      <td width="30%" style="vertical-align: middle; border: none; text-align: right;">
-        <img src="https://i.postimg.cc/yWC814z3/Perfil.png" width="200" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-      </td>
-    </tr>
-  </table>
-</div>
+      </div>
+    </td>
+    <td style="border: none; padding: 0 0 0 20px; vertical-align: middle; width: 35%; text-align: center;">
+      <img src="https://i.postimg.cc/yWC814z3/Perfil.png" width="250" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
