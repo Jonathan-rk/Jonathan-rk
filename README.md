@@ -3,11 +3,12 @@
 <img align="right" height="150" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 15px;" />
 
 <h3 align="left">
-  Full Stack Developer | UI/UX Designer | SENAI Graduate 🎓
+  Full Stack Developer | TypeScript Specialist | SaaS Founder 🚀
 </h3>
 
 <p align="left">
-  Especialista em transformar requisitos de negócio em produtos escaláveis. Unindo engenharia de software e design de produto, foco no desenvolvimento de ecossistemas eficientes e experiências de usuário de alta fidelidade.
+  <strong>Specialist in building end-to-end scalable digital products.</strong> 
+  My focus is on creating high-performance ecosystems using the <strong>Node.js + React</strong> stack, ensuring type-safety and robust database architecture.
 </p>
 
 <div align="left" style="margin-bottom: 20px;">
@@ -22,33 +23,42 @@
 <h2 align="left">🦾 Technical Stack</h2>
 
 <div align="left">
-  <!-- Frontend & Design -->
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,figma" height="40" title="Frontend & Design" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,figma" height="40" title="Frontend & Design" />
   <img width="12"/>
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,prisma,postgres,mysql" height="40" title="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,prisma,postgres,mysql" height="40" title="Backend & DB" />
   <img width="12"/>
-  <!-- Infrastructure & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,flutter" height="40" title="Infrastructure & Mobile" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions" height="40" title="Infrastructure & Tools" />
 </div>
 
-<h2 align="left">📋 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 <div align="left" style="background: #1a1a1a; color: #fff; padding: 20px; border-radius: 12px; border: 1px solid #333; max-width: 750px;">
-  <h3>🚀 Chamou - Real-Time Job Platform</h3>
+  <h3>🛠️ Ordemo - Smart Service Management (SaaS)</h3>
   <p>
-    Plataforma de vagas instantâneas com foco em <b>Matching em Tempo Real</b> e redução de latência operacional entre empresas e prestadores.
-    <br><b>Engenharia:</b> Implementação de arquitetura baseada em eventos para notificações imediatas e UX otimizado para conversão rápida.
+    A full-scale service management ecosystem built to automate scheduling and business workflows for independent professionals.
+    <br><strong>Tech Stack:</strong> 
+    • <strong>Frontend:</strong> React (TSX) + Vite + Tailwind.
+    • <strong>Backend:</strong> Node.js + TypeScript.
+    • <strong>Persistence:</strong> Prisma ORM with Relational Modeling.
+    • <strong>Integration:</strong> Payment gateways (Asaas) and Webhooks for real-time events.
   </p>
+  <a href="https://ordemo.app" target="_blank" style="color: #bb86fc;"><strong>Live Project →</strong></a>
 </div>
 
 <br>
 
-<div align="left" style="background: #f4f4f4; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 750px;">
-  <h3>📅 SaaS de Agendamento Inteligente</h3>
+<div align="left" style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 750px;">
+  <h3>📱 Chamou - Real-Time Job Marketplace</h3>
   <p>
-    Ecossistema de gestão para profissionais autônomos que automatiza o fluxo de marcações e elimina o suporte manual.
-    <br><b>Engenharia:</b> Integração de APIs de pagamento (Asaas), uso de Webhooks para notificações e modelagem de dados relacional com Prisma/MariaDB.
+    An instant hiring platform focused on reducing operational latency through event-driven architecture and real-time matching.
+    <br><strong>Key Features:</strong> High-fidelity UX/UI and optimized notification systems.
   </p>
-  <a href="https://jonathanrk.netlify.app/" target="_blank"><b>View Portfolio →</b></a>
+  <a href="https://jonathanrk.netlify.app/" target="_blank" style="color: #0F9D58;"><strong>View Portfolio →</strong></a>
 </div>
+
+<br>
+
+---
+<p align="center">
+  <i>"Passionate about clean code, type-safety, and solving real-world business problems."</i>
+</p>
