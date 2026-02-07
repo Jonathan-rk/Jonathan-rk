@@ -38,7 +38,8 @@
   <h3>🛠️ Ordemo - Smart Scheduling SaaS</h3>
   <p>
     A management ecosystem for independent professionals that automates booking flows and eliminates manual support.
-    <br><b>Engineering:</b> Integration of payment APIs (Asaas), Webhooks for real-time notifications, and relational data modeling with Prisma ORM.
+    <br><b>Technologies:</b> <code>TypeScript</code>, <code>React (Vite)</code>, <code>Node.js</code>, <code>Prisma ORM</code>, <code>SQL/PostgreSQL</code>.
+    <br><b>Engineering:</b> Integration of payment APIs (Asaas), Webhooks for real-time notifications, and relational data modeling.
   </p>
   <a href="https://ordemo.app" target="_blank" style="color: #bb86fc;"><b>Live Project →</b></a>
 </div>
@@ -48,7 +49,8 @@
 <div align="left" style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 750px;">
   <h3>📱 Chamou - Real-Time Job Platform</h3>
   <p>
-    Instant job vacancy platform focusing on <b>Real-Time Matching</b> and reducing operational latency between companies and providers.
+    <b>Status: 🚧 Under Construction</b>
+    <br>Instant job vacancy platform focusing on <b>Real-Time Matching</b> and reducing operational latency between companies and providers.
     <br><b>Engineering:</b> Event-driven architecture for immediate notifications and UX optimized for fast conversion using Vite and Tailwind CSS.
   </p>
   <a href="https://jonathanrk.netlify.app/" target="_blank" style="color: #0F9D58;"><b>View Portfolio →</b></a>
