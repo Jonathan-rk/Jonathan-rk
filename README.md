@@ -1,6 +1,9 @@
 <h1 align="left">Jonathan Redmerski Kalinoski</h1>
 
-<img align="right" height="150" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 15px;" />
+<div align="right">
+  <img height="150" src="https://i.postimg.cc/yWC814z3/Perfil.png" style="border-radius: 15px; margin-right: 10px;" />
+  <img height="150" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 15px;" />
+</div>
 
 <h3 align="left">
   Full Stack Developer | TypeScript Specialist | SaaS Founder 🚀
@@ -37,28 +40,19 @@
   <p>
     A full-scale service management ecosystem built to automate scheduling and business workflows for independent professionals.
     <br><strong>Tech Stack:</strong> React (TSX), Vite, Node.js, TypeScript, and Prisma ORM.
+    <br><strong>Key Feature:</strong> Integrated payment gateways and real-time event handling.
   </p>
   <a href="https://ordemo.app" target="_blank" style="color: #bb86fc;"><strong>Live Project →</strong></a>
 </div>
 
-<table border="0" style="border-collapse: collapse; width: 100%; max-width: 850px;">
-  <tr>
-    <td style="border: none; padding: 0; vertical-align: top; width: 65%;">
-      <div style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08);">
-        <h3 style="margin-top: 0;">📱 Chamou - Real-Time Job Marketplace</h3>
-        <p>
-          An instant hiring platform focused on reducing operational latency through event-driven architecture and real-time matching.
-        </p>
-        <strong>Key Features:</strong> High-fidelity UX/UI and optimized notification systems.
-        <br><br>
-        <a href="https://jonathanrk.netlify.app/" target="_blank" style="color: #0F9D58;"><strong>View Portfolio →</strong></a>
-      </div>
-    </td>
-    <td style="border: none; padding: 0 0 0 20px; vertical-align: middle; width: 35%; text-align: center;">
-      <img src="https://i.postimg.cc/yWC814z3/Perfil.png" width="250" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
-    </td>
-  </tr>
-</table>
+<div align="left" style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 850px;">
+  <h3>📱 Chamou - Real-Time Job Marketplace</h3>
+  <p>
+    An instant hiring platform focused on reducing operational latency through event-driven architecture and real-time matching.
+    <br><strong>Key Features:</strong> High-fidelity UX/UI, optimized notification systems, and scalable backend logic.
+  </p>
+  <a href="https://jonathanrk.netlify.app/" target="_blank" style="color: #0F9D58;"><strong>View Portfolio →</strong></a>
+</div>
 
 <br>
 
