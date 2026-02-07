@@ -1,7 +1,7 @@
 <h1 align="left">Jonathan Redmerski Kalinoski</h1>
 
 <div align="right">
-  <img height="150" src="https://i.postimg.cc/yWC814z3/Perfil.png" style="border-radius: 15px;" />
+  <img height="150" src="https://i.postimg.cc/3NTXkwmD/Perfil1.png" style="border-radius: 15px;" />
   <img height="150" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 15px;" />
 </div>
 
