@@ -1,76 +1,62 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=180&section=header&text=Jonathan%20Redmerski&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" />
+<h1 align="left">Jonathan Redmerski Kalinoski</h1>
+
+<div align="right">
+  <img height="150" src="https://i.postimg.cc/3NTXkwmD/Perfil1.png" style="border-radius: 15px; margin-right: 10px;" />
+  <img height="150" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" style="border-radius: 15px;" />
 </div>
 
-<br />
+<h3 align="left">
+  Full Stack Developer | TypeScript Specialist | SaaS Founder 🚀
+</h3>
 
-<table border="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="65%" style="vertical-align: top; border: none; padding-right: 20px;">
-      <h2 style="border-bottom: none; margin-top: 0;">🚀 Full Stack Software Engineer</h2>
-      <p style="font-size: 1.1em; line-height: 1.5;">
-        Expert in architecting <b>scalable SaaS ecosystems</b>. I specialize in the <b>TypeScript</b> stack (Node.js & React), focused on delivering type-safe, performant, and user-centric digital products.
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/jonathan-redmerski-kalinoski-7830aa2b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-        <a href="https://jonathanrk.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0F9D58?style=for-the-badge&logo=googlesites&logoColor=white" height="25" /></a>
-        <a href="mailto:jonathanrk07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-      </p>
-    </td>
-    <td width="35%" style="vertical-align: top; border: none;" align="right">
-      <img src="https://i.postimg.cc/3NTXkwmD/Perfil1.png" width="110" style="border-radius: 12px; margin-bottom: 8px; border: 2px solid #30363d;" />
-      <img src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png" width="110" style="border-radius: 12px; border: 2px solid #30363d;" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  Especialista em transformar requisitos de negócio em produtos escaláveis. Unindo engenharia de software e design de produto, foco no desenvolvimento de ecossistemas eficientes com <b>Node.js, React e TypeScript</b>.
+</p>
 
-<br />
+<div align="left" style="margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/jonathan-redmerski-kalinoski-7830aa2b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://jonathanrk.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F9D58?style=for-the-badge&logo=googlesites&logoColor=white" height="30" />
+  </a>
+</div>
 
-### 🛠️ Strategic Tech Stack
+<h2 align="left">🦾 Technical Stack</h2>
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,prisma,postgres,mysql,docker,tailwind,figma,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,figma" height="40" title="Frontend & Design" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,prisma,postgres,mysql" height="40" title="Backend & DB" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" height="40" title="Infrastructure" />
 </div>
+
+<h2 align="left">📋 Featured Projects</h2>
+
+<div align="left" style="background: #1a1a1a; color: #fff; padding: 20px; border-radius: 12px; border: 1px solid #333; max-width: 750px;">
+  <h3>🛠️ Ordemo - SaaS de Agendamento Inteligente</h3>
+  <p>
+    Ecossistema de gestão para profissionais autônomos que automatiza o fluxo de marcações e elimina o suporte manual.
+    <br><b>Engenharia:</b> Integração de APIs de pagamento (Asaas), uso de Webhooks para notificações em tempo real e modelagem de dados com Prisma ORM.
+  </p>
+  <a href="https://ordemo.app" target="_blank" style="color: #bb86fc;"><b>Live Project →</b></a>
+</div>
+
+<br>
+
+<div align="left" style="background: #f4f4f4; color: #333; padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); max-width: 750px;">
+  <h3>📱 Chamou - Real-Time Job Platform</h3>
+  <p>
+    Plataforma de vagas instantâneas com foco em <b>Matching em Tempo Real</b> e redução de latência operacional entre empresas e prestadores.
+    <br><b>Engenharia:</b> Arquitetura baseada em eventos para notificações imediatas e interface desenvolvida com Vite e Tailwind CSS.
+  </p>
+  <a href="https://jonathanrk.netlify.app/" target="_blank" style="color: #0F9D58;"><b>View Portfolio →</b></a>
+</div>
+
+<br>
 
 ---
-
-### 💎 Featured Products
-
-<div align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 16px; padding: 30px; margin-bottom: 25px;">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <h3 style="margin: 0; color: #58a6ff;">🛠️ Ordemo.app — Enterprise Service Management</h3>
-  </div>
-  <p style="color: #8b949e; font-size: 0.95em;">
-    A production-ready SaaS designed to automate end-to-end workflows for independent professionals. Features complex relational modeling and real-time payment synchronization.
-  </p>
-  <p>
-    <code>TypeScript</code> <code>Node.js</code> <code>Prisma</code> <code>React</code> <code>Webhooks</code>
-  </p>
-  <a href="https://ordemo.app" target="_blank" style="text-decoration: none; color: #1f6feb; font-weight: bold;">Launch Project ↗</a>
-</div>
-
-<div align="left" style="background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 16px; padding: 30px;">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <h3 style="margin: 0; color: #1f2328;">📱 Chamou — Real-Time Job Ecosystem</h3>
-  </div>
-  <p style="color: #656d76; font-size: 0.95em;">
-    An event-driven marketplace bridging the gap between enterprises and service providers with near-zero latency and high-fidelity UX.
-  </p>
-  <p>
-    <code>Event-Driven Architecture</code> <code>Vite</code> <code>Tailwind</code> <code>UI/UX Design</code>
-  </p>
-  <a href="https://jonathanrk.netlify.app/" target="_blank" style="text-decoration: none; color: #0969da; font-weight: bold;">View Case Study ↗</a>
-</div>
-
-<br />
-
-### 📈 Development Metrics
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonathan-rk&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-rk&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&bg_color=0d1117" />
-</div>
-
-<br />
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=80&section=footer" width="100%" />
+  <i>"Transformando código em soluções de negócio eficientes."</i>
 </p>
